@@ -11,4 +11,3 @@ license: mit
 short_description: Mental and Physical Health Assistant
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
